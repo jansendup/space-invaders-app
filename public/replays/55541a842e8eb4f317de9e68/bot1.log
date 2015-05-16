@@ -1,0 +1,1200 @@
+[BOT]	Round: 0
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 2
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 2
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   0      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#       VVV       #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#       AAA       #
+#                 #
+###################
+# Missiles: 0/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   0      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Shoot
+[BOT]	Finished in 1.0 ms.
+[GAME]	Bot Python Sample Bot finished in 36 ms.
+[BOT]	Round: 1
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 2
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 2
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   1      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#        VVV      #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---    !    --- #
+#       AAA       #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   1      #
+# Python Sample Bot #
+###################
+[BOT]	Move: MoveRight
+[BOT]	Finished in 1.0 ms.
+[GAME]	Bot Python Sample Bot finished in 26 ms.
+[BOT]	Round: 2
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 2
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 2
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   2      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#        x  x  x  #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---    !    --- #
+# ---         --- #
+#        AAA      #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   2      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Shoot
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 37 ms.
+[BOT]	Round: 3
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 2
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 2
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   3      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#       x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---    !    --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   3      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Nothing
+[BOT]	Finished in 3.0 ms.
+[GAME]	Bot Python Sample Bot finished in 35 ms.
+[BOT]	Round: 4
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 2
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 2
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   4      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---      i  --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#                 #
+#        !        #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   4      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildAlienFactory
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 33 ms.
+[BOT]	Round: 5
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 1
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 2
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   5      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---      i  --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#        !        #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   5      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Nothing
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 35 ms.
+[BOT]	Round: 6
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 1
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 2
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   6      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---         --- #
+# ---      i  --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#          |      #
+#    x  x  x      #
+#                 #
+#    x  x  x      #
+#          |      #
+#                 #
+#        !        #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   6      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildAlienFactory
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 33 ms.
+[BOT]	Round: 7
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 1
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 1
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   7      #
+# Kills: 0        #
+# Lives: 1        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#          i      #
+#                 #
+#                 #
+#          |      #
+#                 #
+#   x  x  x       #
+#                 #
+#   x  x  x       #
+#                 #
+#        ! |      #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   7      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildShield
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 31 ms.
+[BOT]	Round: 8
+[BOT]		Player 1 (Python Sample Bot)	Kills: 0
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   8      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#         VVV     #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#          i      #
+#          |      #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#  x  x  x        #
+#        !        #
+#                 #
+#          |      #
+#                 #
+#                 #
+# ---    ---  --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   8      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildAlienFactory
+[BOT]	Finished in 3.0 ms.
+[GAME]	Bot Python Sample Bot finished in 39 ms.
+[BOT]	Round: 9
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:   9      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# x  x  x         #
+#                 #
+# x  x            #
+#                 #
+#                 #
+#                 #
+#          |      #
+#                 #
+# ---    ---  --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:   9      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Nothing
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 36 ms.
+[BOT]	Round: 10
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  10      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#x  x             #
+#                 #
+#                 #
+#                 #
+#                 #
+#          |      #
+# ---    ---  --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  10      #
+# Python Sample Bot #
+###################
+[BOT]	Move: MoveRight
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 33 ms.
+[BOT]	Round: 11
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  11      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#         VVV     #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#x  x             #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  11      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildShield
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 38 ms.
+[BOT]	Round: 12
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  12      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#    |            #
+# x  x  x         #
+#                 #
+#                 #
+#                 #
+# x  x            #
+# |               #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  12      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildAlienFactory
+[BOT]	Finished in 3.0 ms.
+[GAME]	Bot Python Sample Bot finished in 48 ms.
+[BOT]	Round: 13
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  13      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#    |            #
+#                 #
+#  x  x  x        #
+#                 #
+#                 #
+#                 #
+#  x  x           #
+#                 #
+# |               #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  13      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Nothing
+[BOT]	Finished in 1.0 ms.
+[GAME]	Bot Python Sample Bot finished in 35 ms.
+[BOT]	Round: 14
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  14      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#    |            #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#                 #
+#   x  x          #
+#                 #
+#                 #
+# |               #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  14      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildShield
+[BOT]	Finished in 1.0 ms.
+[GAME]	Bot Python Sample Bot finished in 32 ms.
+[BOT]	Round: 15
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  15      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#    |            #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+#    x  x         #
+#                 #
+#                 #
+#                 #
+# |               #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  15      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Shoot
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 50 ms.
+[BOT]	Round: 16
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  16      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---|    --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#     x  x        #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    --   --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  16      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Nothing
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 34 ms.
+[BOT]	Round: 17
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  17      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---|    --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#      x  x       #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    --   --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  17      #
+# Python Sample Bot #
+###################
+[BOT]	Move: MoveLeft
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 35 ms.
+[BOT]	Round: 18
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  18      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---|     -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#             |   #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#       x  x      #
+#       |         #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    --   --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  18      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Shoot
+[BOT]	Finished in 1.0 ms.
+[GAME]	Bot Python Sample Bot finished in 35 ms.
+[BOT]	Round: 19
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  19      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#    |   VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#             |   #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#        x  x     #
+#                 #
+#       |         #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    -    --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  19      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildAlienFactory
+[BOT]	Finished in 3.0 ms.
+[GAME]	Bot Python Sample Bot finished in 48 ms.
+[BOT]	Round: 20
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  20      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#    |    XXX     #
+#       VVV       #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#             |   #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#         x  x    #
+#                 #
+#                 #
+#       |         #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    -    --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  20      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildAlienFactory
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 34 ms.
+[BOT]	Round: 21
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 0/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  21      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#       VVV       #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#             |   #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+#          x  x   #
+#                 #
+#                 #
+#                 #
+#       |         #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    -    --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  21      #
+# Python Sample Bot #
+###################
+[BOT]	Move: Shoot
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 33 ms.
+[BOT]	Round: 22
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 1/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  22      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#       VVV       #
+# ---    i -- --- #
+# ---     --- --- #
+# ---     ---  -- #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+#                 #
+#           x  x  #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --   |--   --- #
+# ---    ---  --- #
+# ---    -!   --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  22      #
+# Python Sample Bot #
+###################
+[BOT]	Move: MoveLeft
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 35 ms.
+[BOT]	Round: 23
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  23      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#       VVV       #
+# ---      -- --- #
+# ---    i--- --- #
+# ---     ---  -- #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#      x  x  x  x #
+#                 #
+#                 #
+#            x  x #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---   |- -  --- #
+# ---    -    --- #
+#       AAA       #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  23      #
+# Python Sample Bot #
+###################
+[BOT]	Move: BuildShield
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 34 ms.
+[BOT]	Round: 24
+[BOT]		Player 1 (Python Sample Bot)	Kills: 1
+[BOT]		Player 1 (Python Sample Bot)	Lives: 0
+[BOT]		Player 1 (Python Sample Bot)	Missiles: 0/1
+[BOT]		Player 2 (Python Sample Bot)	Kills: 0
+[BOT]		Player 2 (Python Sample Bot)	Lives: 0
+[BOT]		Player 2 (Python Sample Bot)	Missiles: 1/1
+[BOT]	Map:
+###################
+# Python Sample Bot #
+# Round:  24      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---    i---  -- #
+#                 #
+#                 #
+#        |        #
+#        x  x  x  #
+#                 #
+#     x  x  x  x  #
+#                 #
+#                 #
+#             x  x#
+#             |   #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    - -  --- #
+# ---   |-    --- #
+#       AAA       #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  24      #
+# Python Sample Bot #
+###################
+[BOT]	Move: MoveRight
+[BOT]	Finished in 2.0 ms.
+[GAME]	Bot Python Sample Bot finished in 40 ms.

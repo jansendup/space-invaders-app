@@ -1,0 +1,17 @@
+{
+  "Players": [
+    {
+      "Number": 1,
+      "Name": "Python Sample Bot",
+      "Kills": 1
+    },
+    {
+      "Number": 2,
+      "Name": "Python Sample Bot",
+      "Kills": 0
+    }
+  ],
+  "Rounds": 25,
+  "Winner": 2,
+  "WinReason": "Player 1 ran out of lives."
+}

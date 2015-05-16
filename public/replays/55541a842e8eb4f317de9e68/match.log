@@ -1,0 +1,1094 @@
+
+Round 0
+###################
+# Python Sample Bot #
+# Round:   0      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#       VVV       #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#       AAA       #
+#                 #
+###################
+# Missiles: 0/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   0      #
+# Python Sample Bot #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: Nothing              > Did nothing.
+
+Round 1
+###################
+# Python Sample Bot #
+# Round:   1      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#        VVV      #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---    !    --- #
+#       AAA       #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   1      #
+# Python Sample Bot #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: MoveLeft             > Moved left.
+
+Round 2
+###################
+# Python Sample Bot #
+# Round:   2      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#        x  x  x  #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---    !    --- #
+# ---         --- #
+#        AAA      #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   2      #
+# Python Sample Bot #
+###################
+
+Player 1: MoveRight            > Moved right.
+Player 2: MoveLeft             > Moved left.
+
+Round 3
+###################
+# Python Sample Bot #
+# Round:   3      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#       x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---    !    --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   3      #
+# Python Sample Bot #
+###################
+
+Player 1: Shoot                > Shot failed - too many missiles in flight.
+Player 2: Nothing              > Did nothing.
+
+Round 4
+###################
+# Python Sample Bot #
+# Round:   4      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---      i  --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#                 #
+#        !        #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#                 #
+###################
+# Missiles: 1/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   4      #
+# Python Sample Bot #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: Shoot                > Fired a missile.
+
+Round 5
+###################
+# Python Sample Bot #
+# Round:   5      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---      i  --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#        !        #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   5      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildAlienFactory    > Building a building.
+Player 2: Shoot                > Shot failed - too many missiles in flight.
+
+Round 6
+###################
+# Python Sample Bot #
+# Round:   6      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---         --- #
+# ---         --- #
+# ---      i  --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#          |      #
+#    x  x  x      #
+#                 #
+#    x  x  x      #
+#          |      #
+#                 #
+#        !        #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   6      #
+# Python Sample Bot #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: Nothing              > Did nothing.
+
+Round 7
+###################
+# Python Sample Bot #
+# Round:   7      #
+# Kills: 0        #
+# Lives: 1        #
+# Missiles: 1/1   #
+###################
+#                 #
+#         VVV     #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#          i      #
+#                 #
+#                 #
+#          |      #
+#                 #
+#   x  x  x       #
+#                 #
+#   x  x  x       #
+#                 #
+#        ! |      #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   7      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building, but already had one.
+Player 2: BuildShield          > Built shields.
+
+Round 8
+###################
+# Python Sample Bot #
+# Round:   8      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#         VVV     #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#          i      #
+#          |      #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#  x  x  x        #
+#        !        #
+#                 #
+#          |      #
+#                 #
+#                 #
+# ---    ---  --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   8      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildShield          > Built shields.
+Player 2: BuildAlienFactory    > Building a building.
+
+Round 9
+###################
+# Python Sample Bot #
+# Round:   9      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# x  x  x         #
+#                 #
+# x  x            #
+#                 #
+#                 #
+#                 #
+#          |      #
+#                 #
+# ---    ---  --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:   9      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building, but already had one.
+Player 2: MoveRight            > Moved right.
+
+Round 10
+###################
+# Python Sample Bot #
+# Round:  10      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#x  x             #
+#                 #
+#                 #
+#                 #
+#                 #
+#          |      #
+# ---    ---  --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  10      #
+# Python Sample Bot #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 11
+###################
+# Python Sample Bot #
+# Round:  11      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#         VVV     #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#x  x             #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  11      #
+# Python Sample Bot #
+###################
+
+Player 1: MoveRight            > Moved right.
+Player 2: MoveLeft             > Moved left.
+
+Round 12
+###################
+# Python Sample Bot #
+# Round:  12      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#    |            #
+# x  x  x         #
+#                 #
+#                 #
+#                 #
+# x  x            #
+# |               #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  12      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: MoveRight            > Moved right.
+
+Round 13
+###################
+# Python Sample Bot #
+# Round:  13      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#    |            #
+#                 #
+#  x  x  x        #
+#                 #
+#                 #
+#                 #
+#  x  x           #
+#                 #
+# |               #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  13      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building, but already had one.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 14
+###################
+# Python Sample Bot #
+# Round:  14      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---     --- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#    |            #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#                 #
+#   x  x          #
+#                 #
+#                 #
+# |               #
+#                 #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  14      #
+# Python Sample Bot #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 15
+###################
+# Python Sample Bot #
+# Round:  15      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#    |            #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+#    x  x         #
+#                 #
+#                 #
+#                 #
+# |               #
+# ---    --   --- #
+# ---    ---  --- #
+# ---    ---  --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  15      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Shoot                > Fired a missile.
+
+Round 16
+###################
+# Python Sample Bot #
+# Round:  16      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---|    --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#     x  x        #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    --   --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  16      #
+# Python Sample Bot #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: BuildShield          > Tried to build shields but didn't have enough lives.
+
+Round 17
+###################
+# Python Sample Bot #
+# Round:  17      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---|    --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#      x  x       #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    --   --- #
+#         AAA     #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  17      #
+# Python Sample Bot #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 18
+###################
+# Python Sample Bot #
+# Round:  18      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---|     -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#                 #
+#             |   #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#       x  x      #
+#       |         #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    --   --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  18      #
+# Python Sample Bot #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 19
+###################
+# Python Sample Bot #
+# Round:  19      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#    |   VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#                 #
+#             |   #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#        x  x     #
+#                 #
+#       |         #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    -    --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  19      #
+# Python Sample Bot #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 20
+###################
+# Python Sample Bot #
+# Round:  20      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#    |    XXX     #
+#       VVV       #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#                 #
+#             |   #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#         x  x    #
+#                 #
+#                 #
+#       |         #
+#                 #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    -    --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  20      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building, but already had one.
+Player 2: MoveRight            > Moved right.
+
+Round 21
+###################
+# Python Sample Bot #
+# Round:  21      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#         XXX     #
+#       VVV       #
+# ---      -- --- #
+# ---     --- --- #
+# ---     --- --- #
+#             |   #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+#          x  x   #
+#                 #
+#                 #
+#                 #
+#       |         #
+#  --    --   --- #
+# ---    ---  --- #
+# ---    -    --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  21      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building, but already had one.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 22
+###################
+# Python Sample Bot #
+# Round:  22      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#       VVV       #
+# ---    i -- --- #
+# ---     --- --- #
+# ---     ---  -- #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+#                 #
+#           x  x  #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --   |--   --- #
+# ---    ---  --- #
+# ---    -!   --- #
+#        AAA      #
+#        XXX      #
+###################
+# Missiles: 1/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  22      #
+# Python Sample Bot #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: Shoot                > Fired a missile.
+
+Round 23
+###################
+# Python Sample Bot #
+# Round:  23      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#       VVV       #
+# ---      -- --- #
+# ---    i--- --- #
+# ---     ---  -- #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#      x  x  x  x #
+#                 #
+#                 #
+#            x  x #
+#                 #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---   |- -  --- #
+# ---    -    --- #
+#       AAA       #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  23      #
+# Python Sample Bot #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 24
+###################
+# Python Sample Bot #
+# Round:  24      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---    i---  -- #
+#                 #
+#                 #
+#        |        #
+#        x  x  x  #
+#                 #
+#     x  x  x  x  #
+#                 #
+#                 #
+#             x  x#
+#             |   #
+#                 #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    - -  --- #
+# ---   |-    --- #
+#       AAA       #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  24      #
+# Python Sample Bot #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: MoveLeft             > Moved left.
+
+Round 25
+###################
+# Python Sample Bot #
+# Round:  25      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#         XXX     #
+#        VVV      #
+# ---      -- --- #
+# ---     --- --- #
+# ---     ---  -- #
+#        i        #
+#        |        #
+#                 #
+#       x  x  x   #
+#                 #
+#    x  x  x  x   #
+#                 #
+#                 #
+#                 #
+#             x  x#
+#             |   #
+#                 #
+#                 #
+#  --    --   --- #
+# ---    - -  --- #
+# ---    -    --- #
+#                 #
+#        XXX      #
+###################
+# Missiles: 0/1   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  25      #
+# Python Sample Bot #
+###################
+
+Player 1: Nothing              > Ship is respawning.
+Player 2: Nothing              > Did nothing.
+Match result: Player 2 wins
+Win reason: Player 1 ran out of lives.

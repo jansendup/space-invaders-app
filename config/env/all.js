@@ -18,11 +18,14 @@ module.exports = {
 			],
 			js: [
 				'public/lib/angular/angular.js',
-				'public/lib/angular-resource/angular-resource.js', 
-				'public/lib/angular-animate/angular-animate.js', 
+				'public/lib/angular-resource/angular-resource.js',
+				'public/lib/angular-animate/angular-animate.js',
 				'public/lib/angular-ui-router/release/angular-ui-router.js',
 				'public/lib/angular-ui-utils/ui-utils.js',
-				'public/lib/angular-bootstrap/ui-bootstrap-tpls.js'
+				'public/lib/angular-bootstrap/ui-bootstrap-tpls.js',
+				'public/lib/jszip/dist/jszip.js',
+				'public/lib/jszip-utils/dist/jszip-utils.js',
+				'public/lib/EaselJS/lib/easeljs-0.8.0.min.js'
 			]
 		},
 		css: [
